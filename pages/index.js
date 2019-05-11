@@ -6,6 +6,7 @@ function Index() {
     <main>
       <Header />
       <section>
+          <h1>Me, myself & I</h1>
         <Link href="/about">
           <a>Go to About Me</a>
         </Link>
