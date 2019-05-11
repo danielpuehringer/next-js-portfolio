@@ -7,6 +7,7 @@ const Index = () => (
     <div>
         <Head>
             <title>Dapu.dev - HOME</title>
+            <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW" />
         </Head>
         <LayoutIndex>
             <div class="container">

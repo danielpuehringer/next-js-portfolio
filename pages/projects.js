@@ -9,6 +9,7 @@ const Projects = () => (
     <LayoutIndex>
         <Head>
             <title>My Projects</title>
+            <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW" />
         </Head>
         <div class="container">
             <div class="row">
@@ -24,7 +25,7 @@ const Projects = () => (
                     <a
                         href="https://github.com/danielpuehringer/frontend_clock"
                         target="_blank">
-                        <img className="img-fluid--full-Width" src="/static/images/projects/clock.png" alt="Frontend Clock Material Design" />
+                        <img className="img-fluid--full-Width" src="/static/images/projects/clock.PNG" alt="Frontend Clock Material Design" />
                     </a>
                 </div>
 
