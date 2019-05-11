@@ -1,0 +1,1 @@
+{"version":2,"name":"the-next-portfolio-page","builds":[{"src":"package.json","use":"@now/next"}]}
