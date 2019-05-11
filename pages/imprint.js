@@ -9,7 +9,6 @@ const Imprint = () => (
     <LayoutIndex>
         <Head>
             <title>Imprint - Dapu</title>
-            <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW" />
         </Head>
         <div class="container">
             <div class="row">

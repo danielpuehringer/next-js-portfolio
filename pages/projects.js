@@ -9,7 +9,6 @@ const Projects = () => (
     <LayoutIndex>
         <Head>
             <title>My Projects</title>
-            <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW" />
         </Head>
         <div class="container">
             <div class="row">
